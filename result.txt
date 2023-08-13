@@ -1,0 +1,135 @@
+************************************
+Sun Dec 19 20:17:15 2021
+
+Dzisiejsze zdania: 
+
+kot - cat
+szybko - fast
+pocalunek - kiss
+bialy - white
+kolor - color
+dom - home
+komputer - computer
+muzyka - music
+myszka - mouse
+************************************
+Sun Dec 19 20:18:01 2021
+
+Dzisiejsze zdania: 
+
+kot - cat
+szybko - fast
+pocalunek - kiss
+bialy - white
+kolor - color
+dom - home
+komputer - computer
+muzyka - music
+************************************
+Sun Dec 19 20:30:43 2021
+
+Dzisiejsze zdania: 
+
+muzyka - music
+bialy - white
+myszka - mouse
+pocalunek - kiss
+czarny - black
+czarny - black
+czarny - black
+czarny - black
+muzyka - music
+bialy - white
+myszka - mouse
+kot - cat
+pocalunek - kiss
+czarny - black
+czarny - black
+czarny - black
+czarny - black
+czarny - black
+
+Wynik: 0/10
+************************************
+************************************
+Sun Dec 19 20:32:24 2021
+
+Dzisiejsze zdania: 
+
+muzyka - music
+bialy - white
+czarny - black
+kolor - color
+pocalunek - kiss
+czarny - black
+czarny - black
+czarny - black
+czarny - black
+muzyka - music
+bialy - white
+czarny - black
+kolor - color
+pocalunek - kiss
+czarny - black
+czarny - black
+czarny - black
+czarny - black
+czarny - black
+
+Wynik: 0/10
+************************************
+************************************
+Sun Dec 19 20:34:08 2021
+
+Dzisiejsze zdania: 
+
+dom - home
+muzyka - music
+myszka - mouse
+kot - cat
+bialy - white
+czarny - black
+************************************
+Sun Dec 19 20:34:38 2021
+
+Dzisiejsze zdania: 
+
+kolor - color
+dom - home
+muzyka - music
+pocalunek - kiss
+bialy - white
+czarny - black
+czarny - black
+czarny - black
+czarny - black
+czarny - black
+
+Wynik: 0/10
+************************************
+************************************
+Sun Dec 19 20:37:39 2021
+
+Dzisiejsze zdania: 
+
+szybko - fast
+czarny - black
+dom - home
+pocalunek - kiss
+kolor - color
+************************************
+Sun Jan 08 02:11:36 2023
+
+Dzisiejsze zdania: 
+
+bialy - white
+czarny - black
+kot - cat
+kolor - color
+************************************
+Sun Aug 13 16:47:01 2023
+
+Dzisiejsze zdania: 
+
+czarny - black
+kot - cat
